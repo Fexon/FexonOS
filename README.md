@@ -1,7 +1,7 @@
-# FexonOS
-Fexon FexonOS [版本 10.0.18362.959]
+# AliceOS
+Fexon AliceOS [版本 10.0.18362.959]
 (c) 2020 Fexon Corporation。保留所有权利。
 
-C:\User\Administrator>
+C:\Alice\Administrator>
 
-C:\User\Administrator>TYD No.1
+C:\Alice\Administrator>TYD No.1
